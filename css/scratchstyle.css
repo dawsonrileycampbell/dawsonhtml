@@ -1,0 +1,106 @@
+.title{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+}
+
+.backgroundcolor{
+    background-color: grey
+}
+
+.listcolor{
+    color: white;
+}
+
+.listtitle{
+    font-size: larger;
+    color: aquamarine;
+}
+
+.locator{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+.instagram{
+    color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+.image-container {
+    display: flex; 
+    border: 2px solid white;
+  }
+  .image-container img {
+    width: 33.33%; 
+    height: auto; 
+    display: block; 
+  }
+
+  .collage{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+  }
+
+  .youtube{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+ }
+
+  .centerlist{
+    text-align: center; 
+}
+
+.centerlist ol,
+.centerlist ul {
+    text-align: left; 
+    display: inline-block; 
+    padding-left: 0; 
+}
+
+.centerlist li {
+  text-align: left; 
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+  .maincontent{
+    text-align: center;
+    border: 2px solid white;
+    padding: 0px;
+    width: 500px;
+    margin: 0 auto;
+  }
+
+.copyanchor{
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+    padding: 0px;
+    width: 500px;
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  .copyright{
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+
+.tableaucon{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.tabtitle{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
